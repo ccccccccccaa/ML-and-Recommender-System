@@ -6,7 +6,7 @@ This project implements and evaluates several common collaborative filtering alg
 
 The project uses the **MovieLens 100k dataset**, which contains 100,000 ratings from 943 users on 1682 movies.
 
-You can download the dataset from the GroupLens website: [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/)
+You can download the dataset from my repo or the GroupLens website: [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/)
 
 For this project to run correctly, please download the ml-100k.zip file, extract it, and ensure the u.data file is located in a folder named ml-100k within the project's root directory.
 
